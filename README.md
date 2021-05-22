@@ -1,16 +1,18 @@
-### Hi there 👋
+# Shraddha Sadugol
 
-<!--
-**ShraddhaSadugol/ShraddhaSadugol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there 👋
 
-Here are some ideas to get you started:
+I am studying in Reva University as a 6th Semester CSE B.Tech Student. I have a passion for learning data science and will continue to do that. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies and Tools:
+1) Python
+2) mySQL and MONGODB
+3) HTML and CSS
+4) JavaScript
+5) Node JS
+6) React
+
+Skills:
+1) Data Analysis Using Python
+2) Machine Learning Using Python
+3) Full Stack Development Using NodeJS
